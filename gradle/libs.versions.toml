@@ -1,5 +1,6 @@
 [libraries]
 guava = "com.google.guava:guava:33.7.1-jre"
+lombok = "org.projectlombok:lombok:1.18.48"
 
 [plugins]
 shadow = "com.gradleup.shadow:9.4.1"

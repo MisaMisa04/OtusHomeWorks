@@ -1,5 +1,10 @@
+[versions]
+spring = "4.1.0"
+
 [libraries]
 guava = "com.google.guava:guava:33.7.1-jre"
+lombok = "org.projectlombok:lombok:1.18.48"
+spring-dependencies = { module = "org.springframework.boot:spring-boot-dependencies", version.ref = "spring"}
 
 [plugins]
 shadow = "com.gradleup.shadow:9.4.1"

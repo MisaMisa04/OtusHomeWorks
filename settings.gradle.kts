@@ -7,3 +7,5 @@ rootProject.name = "OtusHomeWorks"
 include("hw01-gradle")
 include("hw02-generics-and-collection")
 include("hw03-custom-tester")
+include("hw08-gc")
+include("hw03-custom-tester")
